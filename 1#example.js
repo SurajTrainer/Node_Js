@@ -1,3 +1,5 @@
+// first example of node js use case
+
 
 const age = 22;
 
