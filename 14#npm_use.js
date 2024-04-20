@@ -1,4 +1,6 @@
 
+// here discussed how we use npm in node js
+
 // about npm 
 
 //npm global - command , comes with node
