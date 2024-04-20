@@ -1,4 +1,6 @@
 
+//  2nd example of node where we use it as a globally
+
 // GLOBALS - NO WINDOW !!!!
 
 // __dirname - path the current directory
